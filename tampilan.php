@@ -1,9 +1,9 @@
 <html>
 <head>
-	 <script type="text/javascript" src="js/PrayTimes.js"></script>
-			<link rel="stylesheet" href="../plugin/FlipClock/compiled/flipclock.css">
+	 <script type="text/javascript" src="plugin/PrayTimes.js"></script>
+			<link rel="stylesheet" href="plugin/FlipClock/compiled/flipclock.css">
 		<script src="js/jquery.min.js"></script>
-		<script src="../plugin/FlipClock/compiled/flipclock.js"></script>
+		<script src="plugin/FlipClock/compiled/flipclock.js"></script>
 <?php //include "../koneksi.php"; ?>
     <style>
 		td, th {font-family: "trebuchet MS"; font-size: 19px; color: #fff;padding-top: 8px;margin-left: 0px;}
